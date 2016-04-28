@@ -1,0 +1,13 @@
+current directory: /Users/chutipongroobklom/Ruby/mkc1/path/gems/json-1.8.3/ext/json
+/Users/chutipongroobklom/.rvm/rubies/ruby-2.2.1/bin/ruby -r ./siteconf20160428-1203-yc365p.rb extconf.rb
+creating Makefile
+
+current directory: /Users/chutipongroobklom/Ruby/mkc1/path/gems/json-1.8.3/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/chutipongroobklom/Ruby/mkc1/path/gems/json-1.8.3/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/chutipongroobklom/Ruby/mkc1/path/gems/json-1.8.3/ext/json
+make "DESTDIR=" install
